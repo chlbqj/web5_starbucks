@@ -1,0 +1,191 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav ul li img{
+  width: 100px;
+  height: auto;
+  margin: 0rem;
+}
+
+nav div {
+  text-align: right;
+  margin:1rem 2rem;
+  margin-bottom: 0;
+}
+
+nav div a {
+  color: black;
+  text-decoration: none;
+}
+
+nav div img {
+  width:20px;
+  height:auto;
+}
+
+nav ul{
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items:flex-end;
+  margin-top: 0;
+}
+nav li a{
+  margin: 0 1rem;
+  color: black;
+  text-decoration: none;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+p{
+  font-size: 1rem;
+}
+
+span {
+  background-color:black;
+  width:1.5px;
+  height:16px;
+}
+
+.intro{
+  background: black;
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+}
+
+.intro img{
+  width: 300px;
+  height: auto;
+  display: inline-block;
+
+}
+
+.intro .content{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.intro .content p{
+  padding: 0 15rem;
+}
+
+#split {
+  display: inline-block;
+  background-color: black;
+  width:1.5px;
+  height:16px;
+  margin:0 5px;
+  align-items:flex-end;
+}
+
+body .content a {
+  color: blue;
+}
+
+footer {
+  background-color: #f7f7f7;
+}
+
+footer img{
+  width: 40px;
+  height:auto;
+  margin:0 5px;
+}
+
+.icon {
+  margin-left: 4rem;
+  width: 35%;
+  display: flex;
+}
+
+.communites {
+  height: 10rem;
+  padding: 2rem 0;
+  background-color: #f7f7f7;
+  display: flex;
+}
+
+.email p{
+  margin:0;
+  margin-bottom: 0.5rem;
+}
+
+#zip {
+  width:15 rem;
+  height:auto;
+}
+
+.communites1 {
+  width:35%;
+  height:auto;
+}
+
+.connect ul{
+  margin: 0;
+  padding: 0;
+}
+
+.connect h3 {
+  margin: 1rem 0;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
+footer li {
+  margin: 1rem 0;
+  max-width: 15rem;
+}
+
+.about {
+  margin: 0 2rem;
+}
+
+.center {
+  margin: 0 2rem;
+}
+
+.connect {
+  display: flex;
+  margin: 0 2rem;
+}
+
+.business {
+  margin: 0 2rem;
+}
+
+.community {
+  margin: 0 2rem;
+}
+
+.link {
+  margin: 0 2rem;
+}
+
+footer p {
+  font-size: .714286em;
+  margin: 2rem 2rem;
+}
+
+.commer {
+  width:100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
